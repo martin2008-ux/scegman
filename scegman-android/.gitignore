@@ -1,0 +1,25 @@
+*.iml
+.gradle/
+.kotlin/
+/local.properties
+local.properties
+/.idea/
+/build/
+app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+.DS_Store
+Thumbs.db
+
+# Binarios, firmas y secretos
+*.apk
+*.ap_
+*.aab
+*.jks
+*.keystore
+keystore.properties
+google-services.json
+
+# Assets web sincronizados (regenerables desde dist/)
+app/src/main/assets/www/
